@@ -7,7 +7,7 @@
 
 Name:           python-%{pypi_name}
 Version:        0.3.0
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Python bindings for the docker credentials store API
 
 License:        ASL 2.0
