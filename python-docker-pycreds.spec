@@ -17,7 +17,7 @@ BuildArch:      noarch
 BuildRequires:  python-devel
 BuildRequires:  python-setuptools
 BuildRequires:  python-six
-Requires: 	python3-six
+Requires: 	python-six
 
 
 %description
