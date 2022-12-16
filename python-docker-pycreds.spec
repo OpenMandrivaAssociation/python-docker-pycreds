@@ -40,4 +40,4 @@ Python bindings for the docker credentials store API
 %doc README.md
 %license LICENSE
 %{python3_sitelib}/dockerpycreds
-%{python3_sitelib}/docker_pycreds-%{version}-py?.?.egg-info
+%{python3_sitelib}/docker_pycreds-%{version}-py*.*.egg-info
